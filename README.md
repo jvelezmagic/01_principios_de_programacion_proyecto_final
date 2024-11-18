@@ -12,8 +12,8 @@ Cada algoritmo debe implementarse tanto en **Perl** como en **C** (ojo: **NO** e
      ```
    - Ejemplos:
      - Para el problema 1:
-       - `01_el_lenguaje_secreto_de_tortugas.pl`
-       - `01_el_lenguaje_secreto_de_tortugas.c`
+       - `01_el_lenguaje_secreto_de_las_tortugas.pl`
+       - `01_el_lenguaje_secreto_de_las_tortugas.c`
 
 2. Estructura de carpetas:
 
@@ -26,10 +26,10 @@ Cada algoritmo debe implementarse tanto en **Perl** como en **C** (ojo: **NO** e
    ```
    proyecto/
    ├── C/
-   │   ├── 01_el_lenguaje_secreto_de_tortugas.c
+   │   ├── 01_el_lenguaje_secreto_de_las_tortugas.c
    │   └── 02_otro_problema.c
    └── Perl/
-       ├── 01_el_lenguaje_secreto_de_tortugas.pl
+       ├── 01_el_lenguaje_secreto_de_las_tortugas.pl
        └── 02_otro_problema.pl
    ```
 
